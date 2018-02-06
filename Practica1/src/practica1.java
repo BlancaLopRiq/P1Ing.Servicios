@@ -21,7 +21,7 @@ public class practica1 extends HttpServlet {
         super();
         // TODO Auto-generated constructor stub
     }
-
+//dgdg
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
